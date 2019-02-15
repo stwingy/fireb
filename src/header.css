@@ -1,0 +1,10 @@
+.logger{
+    display:flex;
+    flex-direction: row;
+}
+@media (max-width: 990px) {
+    .logger{
+        flex-direction: column;
+        margin-left: -8px;
+    }
+}

@@ -1,0 +1,29 @@
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	min-height: 1000px;
+	justify-content: space-around;
+}
+.g {
+	background-color: rgb(202, 178, 178);
+	flex-basis: 300px;
+}
+.title {
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	font-size: 2em;
+}
+.ta {
+	width: 300px;
+}
+#comment {
+	font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+	margin-bottom: 0;
+	margin-left: 5px;
+}
+#user {
+	font-family: 'Miss Fajardose', cursive;
+	font-size: 1.5em;
+	margin-left: 20px;
+}
